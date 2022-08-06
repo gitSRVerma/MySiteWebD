@@ -1,0 +1,45 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: greenyellow;
+    border-width: 5px;
+    width: 10%;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+/* #big {
+    font-size: 30%;
+} */
+
+#heading-big {
+    color: crimson;
+    font-family: syne tactile;
+}
+
+#heading-big:hover {
+    background-color: gold;
+}
+
+.brother {
+    font-family: syne tactile;
+    color: goldenrod;
+    /* border: 5px dotted yellow; */
+    /* border-radius: 50%; */
+    text-decoration: underline wavy;
+}
